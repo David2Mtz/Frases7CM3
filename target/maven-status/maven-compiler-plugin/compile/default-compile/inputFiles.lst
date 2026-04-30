@@ -1,0 +1,8 @@
+/Users/david/Documents/WebClient&BackendDevelopmentFramework/Java/Ejercicios/Frases/src/main/java/com/ipn/mx/frases/FrasesApplication.java
+/Users/david/Documents/WebClient&BackendDevelopmentFramework/Java/Ejercicios/Frases/src/main/java/com/ipn/mx/frases/application/EmailService.java
+/Users/david/Documents/WebClient&BackendDevelopmentFramework/Java/Ejercicios/Frases/src/main/java/com/ipn/mx/frases/application/FraseService.java
+/Users/david/Documents/WebClient&BackendDevelopmentFramework/Java/Ejercicios/Frases/src/main/java/com/ipn/mx/frases/application/impl/EmailServiceImpl.java
+/Users/david/Documents/WebClient&BackendDevelopmentFramework/Java/Ejercicios/Frases/src/main/java/com/ipn/mx/frases/application/impl/FraseServiceImpl.java
+/Users/david/Documents/WebClient&BackendDevelopmentFramework/Java/Ejercicios/Frases/src/main/java/com/ipn/mx/frases/domain/entities/Frase.java
+/Users/david/Documents/WebClient&BackendDevelopmentFramework/Java/Ejercicios/Frases/src/main/java/com/ipn/mx/frases/domain/repository/FraseRepository.java
+/Users/david/Documents/WebClient&BackendDevelopmentFramework/Java/Ejercicios/Frases/src/main/java/com/ipn/mx/frases/infrastructure/FraseController.java
